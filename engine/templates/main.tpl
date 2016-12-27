@@ -17,7 +17,7 @@
 
                 console.log(' .. set bg: ' + bg_list);
 
-                $('.content').css({'background-image': 'url(/' + bg_list + ')'});
+                $('body').css({'background-image': 'url(/' + bg_list + ')'});
             });
         </script>
 
