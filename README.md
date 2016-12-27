@@ -7,9 +7,9 @@ Author: Denis Halturin
 
 Preview
 ========
-* Login page (admin / client lease) ![Login page](http://cs627922.vk.me/v627922986/5d34/54GOB1qGgAk.jpg)
-* List active devices ![List active](https://pp.vk.me/c627922/v627922576/7a00/Ty2TzUYNmxw.jpg)
-* List all devices (active and blocked) ![List all devices](https://pp.vk.me/c627922/v627922576/79f6/NeU_q-8Rczs.jpg)
+* Login page (admin / client lease) ![Login page](https://pp.vk.me/c636423/v636423625/4193c/xS8qZPr00Kw.jpg)
+* List active devices ![List active](https://pp.vk.me/c636423/v636423625/41932/TtCQTSBNQaU.jpg)
+* List all devices (active and blocked) ![List all devices](https://pp.vk.me/c636423/v636423625/41928/bn9773sIuDE.jpg)
 
 Depends
 ========
