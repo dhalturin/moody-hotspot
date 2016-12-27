@@ -141,7 +141,7 @@ if($_POST || $_free)
         }
         else
         {
-            $tpl->data['auth_form'].= show_message($_leaseState ? 'Could not get fucking IP-data. Command: ' . $cmd : 'Dammit! Lease wrong ');
+            $tpl->data['auth_form'].= show_message($_leaseState ? 'Could not get fucking IP-data. ' . ($ip . ' ' . $lease_ips[$ip]['mac'] . ' ' . $_leaseState) : 'Dammit! Lease wrong ');
         }
     }
 }
